@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\face"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\h5-cloud-music-ts"
+		},
+		{
+			"path": "..\\react-music-player"
+		},
+		{
+			"path": "..\\..\\..\\miniso\\MINISO-SCRM-TARO-WX"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "face"
+	}
+}
